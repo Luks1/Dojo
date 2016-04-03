@@ -1,0 +1,5 @@
+I have to store the statement in to an string first
+Then I have to remove "is" and replace it with ":" using the replace method
+And then I have to store it in an array using split
+Then I have to loop through the array using for each
+And then store each person as an object.
